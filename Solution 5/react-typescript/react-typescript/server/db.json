@@ -1,0 +1,13 @@
+{
+  "customers": [
+    {
+      "firstName": "Steve",
+      "lastName": "Markov",
+      "npiNumber": "54312",
+      "address": "Washington",
+      "phone": "+1 434 4353 2323",
+      "email": "steve@hotmail.com",
+      "id": 1
+    }
+  ]
+}
